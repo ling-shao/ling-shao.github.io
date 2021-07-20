@@ -1,8 +1,6 @@
-## Ling Shao
+## About
 
-You can use the [editor on GitHub](https://github.com/ling-shao/ling-shao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ling Shao is the CEO and Chief Scientist of the Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi, UAE. He was also the initiator and the Founding Provost and Executive Vice President of the world's first AI university - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). His research interests include computer vision, deep learning, medical imaging and vision and language.
 
 ### Markdown
 
